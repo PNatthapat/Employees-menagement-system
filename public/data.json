@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Pat eiei",
+      "salary": 50000,
+      "department": "Programmer",
+      "isVisible": false
+    },
+    {
+      "id": 2,
+      "name": "Grace Susu",
+      "salary": 40000,
+      "department": "IT",
+      "isVisible": false
+    },
+    {
+      "id": 3,
+      "name": "Red blue",
+      "salary": 30000,
+      "department": "IT",
+      "isVisible": false
+    },
+    {
+      "id": 4,
+      "name": "Green land",
+      "salary": 23000,
+      "department": "marketing",
+      "isVisible": false
+    }
+  ]
+}
